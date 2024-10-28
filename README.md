@@ -11,3 +11,6 @@ Program smart absensi menggunakan bahasa pemrograman python dan algoritma haarca
 7. Absensi telah dilakukan dan data sudah masuk kedalam file excel
 8. Jika ingin memodifikasi disarankan menggunakan pycharm
 9. Semoga bermanfaat ya
+
+
+![image](https://github.com/user-attachments/assets/4abe739c-0d37-48de-af69-5414f99c06b9)
